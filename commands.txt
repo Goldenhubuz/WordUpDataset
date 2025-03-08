@@ -1,1 +1,4 @@
 make mig
+make app
+make cru
+make run

@@ -1,3 +1,5 @@
 Django
 wheel
 mysqlclient
+django_extensions
+django-jazzmin
